@@ -9,6 +9,8 @@ Exploratory Data Analysis (EDA) on **New York Airbnb** listings to uncover patte
 
 ![image(1)](https://github.com/user-attachments/assets/87ff8469-3c54-4cfd-8178-b086e4ec8f7b)
 
+![image](https://github.com/user-attachments/assets/6a4b0724-0cb8-4078-94e5-bb1a410223b9)
+
 
 ### 🎯 Objectives
 
